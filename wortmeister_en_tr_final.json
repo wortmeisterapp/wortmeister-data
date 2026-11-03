@@ -276,7 +276,7 @@
   "level": "A1",
   "phonetic": "/ˈædʌlt/",
   "example": "He was a healthy young adult male.",
-  "tr": "adj. yetişkin"
+  "tr": "adj. yetişkin; n. yetişkin, erişkin"
  },
  {
   "id": 38,
@@ -427,7 +427,7 @@
   "word": "aged",
   "type": "adjective",
   "level": "B1",
-  "phonetic": "",
+  "phonetic": "/eɪdʒd/",
   "example": "They have two children aged six and nine.",
   "tr": "yaşında"
  },
@@ -609,7 +609,7 @@
   "level": "A2",
   "phonetic": "/əˈləʊn/",
   "example": "He was afraid of being alone with his thoughts.",
-  "tr": "adj. yalnız, tek başına"
+  "tr": "adj. yalnız, tek başına; adv. yalnız başına, tek başına"
  },
  {
   "id": 84,
@@ -1392,7 +1392,7 @@
   "level": "A2",
   "phonetic": "/ˈævərɪdʒ/",
   "example": "The average age of participants was 52 years.",
-  "tr": "adj. ortalama; v. ortalama tutmak, ortalaması olmak"
+  "tr": "adj. ortalama; n. ortalama; v. ortalama tutmak, ortalaması olmak"
  },
  {
   "id": 187,
@@ -1563,7 +1563,7 @@
   "level": "A1",
   "phonetic": "/bæŋk/",
   "example": "I don't have much money in the bank at the end of the month.",
-  "tr": "banka"
+  "tr": "banka, nehir kıyısı"
  },
  {
   "id": 211,
@@ -1572,7 +1572,7 @@
   "level": "A2",
   "phonetic": "/bɑːr/",
   "example": "We arranged to meet in a bar called the Flamingo.",
-  "tr": "bar"
+  "tr": "bar, çubuk, kalıp"
  },
  {
   "id": 212,
@@ -1671,7 +1671,7 @@
   "level": "A1",
   "phonetic": "/biː/",
   "example": "She's a great beauty.",
-  "tr": "v. olmak"
+  "tr": "v. olmak, bulunmak; aux. v. olmak (yardımcı fiil)"
  },
  {
   "id": 225,
@@ -1694,11 +1694,11 @@
  {
   "id": 227,
   "word": "bear",
-  "type": "noun",
+  "type": "noun, verb",
   "level": "A2",
   "phonetic": "/ber/",
   "example": "A little bear cub ran right across the road in front of us.",
-  "tr": "ayı"
+  "tr": "n. ayı; v. taşımak, katlanmak, doğurmak"
  },
  {
   "id": 228,
@@ -1932,7 +1932,7 @@
   "level": "A1",
   "phonetic": "/ˈbetər/",
   "example": "We're hoping for better weather tomorrow.",
-  "tr": "adj. daha iyi; n. daha iyisi"
+  "tr": "adj. daha iyi; adv. daha iyi bir şekilde; n. daha iyisi"
  },
  {
   "id": 264,
@@ -1977,7 +1977,7 @@
   "level": "A1",
   "phonetic": "/bɪl/",
   "example": "He is facing a huge tax bill.",
-  "tr": "fatura, hesap"
+  "tr": "fatura, hesap, yasa tasarısı, kağıt para"
  },
  {
   "id": 270,
@@ -2121,7 +2121,7 @@
   "level": "A2",
   "phonetic": "/bləʊ/",
   "example": "The policeman asked me to blow into the breathalyser.",
-  "tr": "üflemek"
+  "tr": "üflemek, esmek"
  },
  {
   "id": 290,
@@ -2130,7 +2130,7 @@
   "level": "A1",
   "phonetic": "/bluː/",
   "example": "The sun shone brilliantly in the clear blue sky.",
-  "tr": "adj. mavi"
+  "tr": "adj. mavi; n. mavi renk"
  },
  {
   "id": 292,
@@ -2139,7 +2139,7 @@
   "level": "A2",
   "phonetic": "/bɔːrd/",
   "example": "He had ripped up the carpet, leaving only the bare boards.",
-  "tr": "n. tahta, kalas; v. binmek"
+  "tr": "n. tahta, pano, yönetim kurulu; v. binmek (uçak, gemi vb.)"
  },
  {
   "id": 294,
@@ -2346,7 +2346,7 @@
   "level": "B1",
   "phonetic": "/bræntʃ/",
   "example": "She climbed the tree and hid in the branches.",
-  "tr": "dal"
+  "tr": "dal, şube"
  },
  {
   "id": 321,
@@ -2490,7 +2490,7 @@
   "level": "A1",
   "phonetic": "/braʊn/",
   "example": "Soon the yellow leaves will turn brown.",
-  "tr": "adj. kahverengi"
+  "tr": "adj. kahverengi; n. kahverengi"
  },
  {
   "id": 340,
@@ -2535,7 +2535,7 @@
   "level": "A2",
   "phonetic": "/bɜːrn/",
   "example": "A welcoming fire was burning in the fireplace.",
-  "tr": "yanmak"
+  "tr": "yanmak, yakmak"
  },
  {
   "id": 346,
@@ -2589,7 +2589,7 @@
   "level": "A1",
   "phonetic": "/bʌt/",
   "example": "I got it wrong. It wasn't the red one but the blue one.",
-  "tr": "aksine, bilakis"
+  "tr": "ama, fakat, lakin, aksine"
  },
  {
   "id": 352,
@@ -2661,7 +2661,7 @@
   "level": "A1",
   "phonetic": "/kɔːl/",
   "example": "I left a message but he didn't return my call.",
-  "tr": "n. arama, telefon çağrısı; v. seslenmek, hitap etmek, adlandırmak"
+  "tr": "n. arama, telefon çağrısı; v. aramak, seslenmek, adlandırmak"
  },
  {
   "id": 362,
@@ -2760,7 +2760,7 @@
   "level": "A1",
   "phonetic": "/ˈkæpɪtl/",
   "example": "English is written with a capital ‘E’.",
-  "tr": "adj. büyük (harf); n. başkent"
+  "tr": "adj. büyük (harf), ana; n. başkent, sermaye"
  },
  {
   "id": 379,
@@ -2787,7 +2787,7 @@
   "level": "A1",
   "phonetic": "/kɑːrd/",
   "example": "The model of the building was made of card.",
-  "tr": "karton, mukavva"
+  "tr": "kart, oyun kartı, karton"
  },
  {
   "id": 382,
@@ -3093,7 +3093,7 @@
   "level": "A1",
   "phonetic": "/tʃeɪndʒ/",
   "example": "There was no change in the patient's condition overnight.",
-  "tr": "n. değişiklik, değişim; v. değişmek"
+  "tr": "n. değişiklik, değişim, bozuk para; v. değişmek, değiştirmek"
  },
  {
   "id": 420,
@@ -3129,7 +3129,7 @@
   "level": "B1",
   "phonetic": "/tʃɑːrdʒ/",
   "example": "Delivery is free of charge.",
-  "tr": "n. ücret, masraf; v. ücret talep etmek, ücretlendirmek"
+  "tr": "n. ücret, suçlama, şarj; v. ücret istemek, suçlamak, şarj etmek"
  },
  {
   "id": 425,
@@ -3552,7 +3552,7 @@
   "level": "A2",
   "phonetic": "/kəʊtʃ/",
   "example": "He is a former college football coach.",
-  "tr": "n. antrenör, koç; v. çalıştırmak, eğitmek, koçluk yapmak"
+  "tr": "n. antrenör, koç, şehirlerarası otobüs; v. çalıştırmak, eğitmek"
  },
  {
   "id": 486,
@@ -4037,7 +4037,7 @@
   "type": "verb",
   "level": "B1",
   "phonetic": "/kənˈsɪst/",
-  "example": "",
+  "example": "The team consists of four Europeans and two Americans.",
   "tr": "oluşmak, meydana gelmek"
  },
  {
@@ -4335,7 +4335,7 @@
   "level": "A1",
   "phonetic": "/kɔːrs/",
   "example": "I want to do a course in art and design.",
-  "tr": "kurs, eğitim"
+  "tr": "kurs, ders, süreç, rota"
  },
  {
   "id": 586,
@@ -4547,11 +4547,11 @@
  {
   "id": 613,
   "word": "current",
-  "type": "adjective",
+  "type": "adjective, noun",
   "level": "B1",
   "phonetic": "/ˈkɜːrənt/",
   "example": "The necklace would be worth over $5 000 at current prices.",
-  "tr": "mevcut, güncel"
+  "tr": "adj. mevcut, güncel; n. akıntı, akım"
  },
  {
   "id": 614,
@@ -4686,7 +4686,7 @@
   "level": "A1",
   "phonetic": "/dɑːrk/",
   "example": "What time does it get dark in summer?",
-  "tr": "adj. karanlık"
+  "tr": "adj. karanlık, koyu; n. karanlık"
  },
  {
   "id": 635,
@@ -4704,7 +4704,7 @@
   "level": "A1",
   "phonetic": "/deɪt/",
   "example": "Write today's date at the top of the page.",
-  "tr": "tarih"
+  "tr": "tarih, randevu (flört), hurma"
  },
  {
   "id": 637,
@@ -4740,7 +4740,7 @@
   "level": "A2",
   "phonetic": "/diːl/",
   "example": "I'll make a deal with you—I'll work evenings if you'll work weekends.",
-  "tr": "n. anlaşma; v. dağıtmak"
+  "tr": "n. anlaşma, fırsat; v. ilgilenmek, başa çıkmak (deal with), dağıtmak"
  },
  {
   "id": 642,
@@ -4857,7 +4857,7 @@
   "level": "A2",
   "phonetic": "/dɪˈɡriː/",
   "example": "Last weekend temperatures reached 40 degrees.",
-  "tr": "derece"
+  "tr": "derece, lisans/üniversite derecesi"
  },
  {
   "id": 657,
@@ -4910,7 +4910,7 @@
   "type": "verb",
   "level": "A2",
   "phonetic": "/dɪˈpend/",
-  "example": "",
+  "example": "How much it costs depends on how much you buy.",
   "tr": "bağlı olmak, güvenmek"
  },
  {
@@ -5190,7 +5190,7 @@
   "level": "A2",
   "phonetic": "/daɪˈrekt/",
   "example": "This door allows direct access from the kitchen to the garage.",
-  "tr": "adj. doğrudan, direkt; v. yönetmek, yönlendirmek"
+  "tr": "adj. doğrudan, direkt; adv. doğrudan, aracısız; v. yönetmek, yönlendirmek"
  },
  {
   "id": 697,
@@ -5469,7 +5469,7 @@
   "level": "A2",
   "phonetic": "/ˈdʌbl/",
   "example": "a double helping",
-  "tr": "adj. çift, iki kat; adv. iki kat, ikiye; det. iki katı; v. ikiye katlanmak, iki katına çıkmak"
+  "tr": "adj. çift, iki kat; adv. iki kat, ikiye; det. iki katı; pron. iki katı; v. ikiye katlanmak, iki katına çıkmak"
  },
  {
   "id": 734,
@@ -5604,7 +5604,7 @@
   "level": "A2",
   "phonetic": "/drɑːp/",
   "example": "The first drops of rain fell.",
-  "tr": "n. damla; v. düşmek, sarkmak"
+  "tr": "n. damla, düşüş; v. düşmek, düşürmek, bırakmak"
  },
  {
   "id": 758,
@@ -5738,7 +5738,7 @@
   "type": "noun",
   "level": "B1",
   "phonetic": "/ˈɜːrθkweɪk/",
-  "example": "The earthquake measured 68 on the Richter scale.",
+  "example": "The earthquake measured 6.8 on the Richter scale.",
   "tr": "deprem"
  },
  {
@@ -5757,7 +5757,7 @@
   "level": "A1",
   "phonetic": "/iːst/",
   "example": "They live on the east coast.",
-  "tr": "adj. doğu; adv. doğuya, doğuya doğru"
+  "tr": "adj. doğu; adv. doğuya, doğuya doğru; n. doğu"
  },
  {
   "id": 781,
@@ -5918,7 +5918,7 @@
   "type": "number",
   "level": "A1",
   "phonetic": "/ˌeɪˈtiːn/",
-  "example": "",
+  "example": "She is eighteen years old.",
   "tr": "on sekiz"
  },
  {
@@ -5927,7 +5927,7 @@
   "type": "number",
   "level": "A1",
   "phonetic": "/ˈeɪti/",
-  "example": "",
+  "example": "My grandfather is eighty years old.",
   "tr": "seksen"
  },
  {
@@ -6008,7 +6008,7 @@
   "type": "number",
   "level": "A1",
   "phonetic": "/ɪˈlevn/",
-  "example": "There are only eleven of these rare animals left.",
+  "example": "Our football team has eleven players.",
   "tr": "on bir"
  },
  {
@@ -6846,7 +6846,7 @@
   "level": "A2",
   "phonetic": "/fer/",
   "example": "The punishment was very fair.",
-  "tr": "adil, hakkaniyetli"
+  "tr": "adil, makul, açık renkli, fuar"
  },
  {
   "id": 921,
@@ -7134,7 +7134,7 @@
   "level": "A1",
   "phonetic": "/fjuː/",
   "example": "We've had a few replies.",
-  "tr": "adj. birkaç, az; pron. birkaçı, azı"
+  "tr": "adj. birkaç, az; det. az, birkaç; pron. birkaçı, azı"
  },
  {
   "id": 966,
@@ -7160,7 +7160,7 @@
   "type": "number",
   "level": "A1",
   "phonetic": "/ˌfɪfˈtiːn/",
-  "example": "",
+  "example": "The train leaves in fifteen minutes.",
   "tr": "on beş"
  },
  {
@@ -7178,7 +7178,7 @@
   "type": "number",
   "level": "A1",
   "phonetic": "/ˈfɪfti/",
-  "example": "",
+  "example": "They have been married for fifty years.",
   "tr": "elli"
  },
  {
@@ -7278,7 +7278,7 @@
   "level": "A1",
   "phonetic": "/faɪn/",
   "example": "I was feeling fine when I got up this morning.",
-  "tr": "iyi, sağlıklı"
+  "tr": "iyi, hoş, ince, para cezası"
  },
  {
   "id": 985,
@@ -7655,7 +7655,7 @@
   "type": "number",
   "level": "A1",
   "phonetic": "/ˈfɔːrti/",
-  "example": "",
+  "example": "The journey takes about forty minutes.",
   "tr": "kırk"
  },
  {
@@ -7682,7 +7682,7 @@
   "type": "number",
   "level": "A1",
   "phonetic": "/ˌfɔːrˈtiːn/",
-  "example": "",
+  "example": "We had fourteen days of rain.",
   "tr": "on dört"
  },
  {
@@ -8088,7 +8088,7 @@
   "level": "A1",
   "phonetic": "/ɡet/",
   "example": "I got a call from Dave this morning.",
-  "tr": "almak"
+  "tr": "almak, elde etmek, ulaşmak, olmak"
  },
  {
   "id": 1098,
@@ -8267,7 +8267,7 @@
   "type": "noun",
   "level": "B1",
   "phonetic": "/ɡreɪd/",
-  "example": "(British English) She got good grades in her exams.",
+  "example": "She got good grades in her exams.",
   "tr": "not, derece"
  },
  {
@@ -8619,7 +8619,7 @@
   "level": "A1",
   "phonetic": "/hæv/",
   "example": "He had a new car and a boat.",
-  "tr": "v. sahip olmak; aux. v. bitirmiş (yardımcı fiil)"
+  "tr": "v. sahip olmak, almak; aux. v. geçmiş zaman yardımcı fiili"
  },
  {
   "id": 1175,
@@ -9401,7 +9401,7 @@
   "type": "noun, verb",
   "level": "B1",
   "phonetic": "/ˈɪmpɔːrt/",
-  "example": "import from… food imports from abroad",
+  "example": "The country relies heavily on food imports from abroad.",
   "tr": "n. ithalat, ithal ürün; v. ithal etmek"
  },
  {
@@ -9947,11 +9947,20 @@
  {
   "id": 1349,
   "word": "IT",
-  "type": "noun, pronoun",
+  "type": "noun",
   "level": "A1",
   "phonetic": "/ˌaɪ ˈtiː/",
-  "example": "the increasing use of IT in all aspects of today's society",
-  "tr": "n. bilgi teknolojileri, bilişim; pron. o, onu, ona"
+  "example": "The company is investing heavily in IT and software.",
+  "tr": "bilgi teknolojileri, bilişim"
+ },
+ {
+  "id": 1350,
+  "word": "it",
+  "type": "pronoun",
+  "level": "A1",
+  "phonetic": "/ɪt/",
+  "example": "Where is my pen? I left it on the desk.",
+  "tr": "o, onu, ona (cansız/hayvan)"
  },
  {
   "id": 1351,
@@ -10050,7 +10059,7 @@
   "level": "A1",
   "phonetic": "/dʒɔɪn/",
   "example": "The island is joined to the mainland by a bridge.",
-  "tr": "bağlanmak, birleşmek"
+  "tr": "katılmak, birleşmek, bağlamak"
  },
  {
   "id": 1362,
@@ -10167,7 +10176,7 @@
   "level": "A1",
   "phonetic": "/kiː/",
   "example": "He was a key figure in the campaign.",
-  "tr": "adj. kilit, önemli; n. anahtar; v. veri girmek, tuşlamak"
+  "tr": "adj. kilit, önemli; n. anahtar, tuş; v. tuşlamak, veri girmek"
  },
  {
   "id": 1380,
@@ -10238,7 +10247,7 @@
   "type": "noun",
   "level": "A2",
   "phonetic": "/kɪŋ/",
-  "example": "the kings and queens of England",
+  "example": "The lion is often called the king of the jungle.",
   "tr": "kral"
  },
  {
@@ -10507,9 +10516,9 @@
   "word": "lead",
   "type": "noun, verb",
   "level": "A2",
-  "phonetic": "/liːd/",
+  "phonetic": "/liːd/, /led/",
   "example": "She took the lead in the second lap.",
-  "tr": "n. liderlik, önde olma; v. liderlik etmek, yol göstermek"
+  "tr": "n. liderlik, önde olma, kurşun (metal); v. liderlik etmek, yol göstermek"
  },
  {
   "id": 1432,
@@ -10563,7 +10572,7 @@
   "level": "A2",
   "phonetic": "/liːst/",
   "example": "He always turns up just when you least expect him.",
-  "tr": "adv. en az; pron. en azı"
+  "tr": "adv. en az; det. en az; pron. en azı"
  },
  {
   "id": 1440,
@@ -10599,7 +10608,7 @@
   "level": "A1",
   "phonetic": "/left/",
   "example": "Fewer people write with their left hand than with their right.",
-  "tr": "adj. sol; adv. sola, solda"
+  "tr": "adj. sol; adv. sola, solda; n. sol, sol taraf"
  },
  {
   "id": 1447,
@@ -10662,7 +10671,7 @@
   "level": "A2",
   "phonetic": "/les/",
   "example": "That this is a positive stereotype makes it no less a stereotype, and therefore unacceptable.",
-  "tr": "adv. daha az; pron. daha azı"
+  "tr": "adv. daha az; det. daha az; pron. daha azı"
  },
  {
   "id": 1456,
@@ -10716,7 +10725,7 @@
   "level": "A1",
   "phonetic": "/laɪ/",
   "example": "The whole story is nothing but a pack of lies.",
-  "tr": "n. yalan; v. yatmak, uzanmak"
+  "tr": "n. yalan; v. yalan söylemek, yatmak, uzanmak"
  },
  {
   "id": 1464,
@@ -10752,7 +10761,7 @@
   "level": "A1",
   "phonetic": "/laɪt/",
   "example": "He's got light blue eyes.",
-  "tr": "adj. açık; n. ışık; v. yakmak"
+  "tr": "adj. hafif, açık (renk), aydınlık; n. ışık, lamba; v. yakmak, aydınlatmak"
  },
  {
   "id": 1471,
@@ -10824,7 +10833,7 @@
   "level": "B1",
   "phonetic": "/ˈlɪkwɪd/",
   "example": "The detergent comes in powder or liquid form.",
-  "tr": "adj. sıvı"
+  "tr": "adj. sıvı, akışkan; n. sıvı"
  },
  {
   "id": 1484,
@@ -10850,7 +10859,7 @@
   "type": "noun",
   "level": "A2",
   "phonetic": "/ˈlɪsənər/",
-  "example": "a good listener (= somebody who you can rely on to listen with attention or sympathy)",
+  "example": "She has always been a very good listener.",
   "tr": "dinleyici"
  },
  {
@@ -10876,7 +10885,7 @@
   "word": "live",
   "type": "adjective, adverb, verb",
   "level": "A1",
-  "phonetic": "/laɪv/",
+  "phonetic": "/lɪv/, /laɪv/",
   "example": "We saw a real live rattlesnake!",
   "tr": "adj. canlı; adv. canlı olarak, naklen; v. yaşamak, ikamet etmek"
  },
@@ -11319,7 +11328,7 @@
   "level": "A1",
   "phonetic": "/mætʃ/",
   "example": "They are playing an important match against Liverpool on Saturday.",
-  "tr": "n. maç, karşılaşma; v. eşleştirmek, uydurmak"
+  "tr": "n. maç, kibrit, eşleşme; v. eşleştirmek, uymak"
  },
  {
   "id": 1563,
@@ -11360,11 +11369,20 @@
  {
   "id": 1568,
   "word": "May",
-  "type": "noun, modal verb",
+  "type": "noun",
   "level": "A1",
   "phonetic": "/meɪ/",
   "example": "She was born in May.",
-  "tr": "n. Mayıs; modal v. -ebilir, ihtimali olmak"
+  "tr": "Mayıs"
+ },
+ {
+  "id": 1569,
+  "word": "may",
+  "type": "modal verb",
+  "level": "A2",
+  "phonetic": "/meɪ/",
+  "example": "There may be some rain later today.",
+  "tr": "-ebilir, -abilir (olasılık, izin)"
  },
  {
   "id": 1570,
@@ -11396,11 +11414,11 @@
  {
   "id": 1573,
   "word": "mean",
-  "type": "verb",
+  "type": "adjective, verb",
   "level": "A1",
   "phonetic": "/miːn/",
   "example": "What does ‘lark’ mean?",
-  "tr": "anlamına gelmek, demek istemek"
+  "tr": "adj. cimri, kaba, ortalama; v. anlamına gelmek, kastetmek"
  },
  {
   "id": 1574,
@@ -11652,7 +11670,7 @@
   "level": "A2",
   "phonetic": "/maɪnd/",
   "example": "There were all kinds of thoughts running through my mind.",
-  "tr": "n. zihin, akıl; v. önemsemek, takmak"
+  "tr": "n. zihin, akıl; v. önemsemek, sakıncası olmak, dikkat etmek"
  },
  {
   "id": 1606,
@@ -11678,7 +11696,7 @@
   "type": "noun",
   "level": "A2",
   "phonetic": "/ˈmɪrər/",
-  "example": "in the mirror He looked at himself in the mirror.",
+  "example": "He looked at himself in the mirror.",
   "tr": "ayna"
  },
  {
@@ -11688,7 +11706,7 @@
   "level": "A1",
   "phonetic": "/mɪs/",
   "example": "If I don't leave now I'll miss my plane.",
-  "tr": "kaçırmak"
+  "tr": "kaçırmak, özlemek, ıskalamak"
  },
  {
   "id": 1611,
@@ -11841,7 +11859,7 @@
   "level": "A1",
   "phonetic": "/məʊst/",
   "example": "It was the people with the least money who gave most generously.",
-  "tr": "adv. en çok, en fazla; pron. çoğu, en çoğu"
+  "tr": "adv. en çok, en fazla; det. en çok, çoğu; pron. çoğu, en çoğu"
  },
  {
   "id": 1634,
@@ -12335,7 +12353,7 @@
   "type": "number",
   "level": "A1",
   "phonetic": "/naɪn/",
-  "example": "There are only nine of these rare animals left.",
+  "example": "The concert starts at nine o'clock.",
   "tr": "dokuz"
  },
  {
@@ -12344,7 +12362,7 @@
   "type": "number",
   "level": "A1",
   "phonetic": "/ˌnaɪnˈtiːn/",
-  "example": "",
+  "example": "He was nineteen when he joined the army.",
   "tr": "on dokuz"
  },
  {
@@ -12353,7 +12371,7 @@
   "type": "number",
   "level": "A1",
   "phonetic": "/ˈnaɪnti/",
-  "example": "",
+  "example": "Ninety percent of the students passed the exam.",
   "tr": "doksan"
  },
  {
@@ -12417,7 +12435,7 @@
   "level": "B1",
   "phonetic": "/nɔːr/",
   "example": "She seemed neither surprised nor worried.",
-  "tr": "adv. ne de"
+  "tr": "adv. ne de; conj. ne de"
  },
  {
   "id": 1716,
@@ -12444,7 +12462,7 @@
   "level": "A1",
   "phonetic": "/nɔːrθ/",
   "example": "We ended up on the rugged north coast of California.",
-  "tr": "adj. kuzey; adv. kuzeye, kuzeyde"
+  "tr": "adj. kuzey; adv. kuzeye, kuzeyde; n. kuzey"
  },
  {
   "id": 1722,
@@ -12480,7 +12498,7 @@
   "level": "A1",
   "phonetic": "/nəʊt/",
   "example": "Please make a note of the dates.",
-  "tr": "n. not; v. dikkat etmek, not etmek"
+  "tr": "n. not, müzik notası, banknot; v. dikkat etmek, not etmek"
  },
  {
   "id": 1727,
@@ -12584,11 +12602,11 @@
  {
   "id": 1741,
   "word": "object",
-  "type": "noun",
+  "type": "noun, verb",
   "level": "A1",
-  "phonetic": "/ˈɑːbdʒekt/",
+  "phonetic": "/ˈɑːbdʒekt/, /əbˈdʒekt/",
   "example": "The scanner detected a metal object.",
-  "tr": "nesne, obje"
+  "tr": "n. nesne, obje, amaç; v. itiraz etmek, karşı çıkmak"
  },
  {
   "id": 1742,
@@ -12982,7 +13000,7 @@
   "word": "ought",
   "type": "modal verb",
   "level": "B1",
-  "phonetic": "/ˈɔːt tu/",
+  "phonetic": "/ɔːt/",
   "example": "They ought to apologize.",
   "tr": "-meli, -malı"
  },
@@ -13299,7 +13317,7 @@
   "level": "A1",
   "phonetic": "/ˈpɑːrti/",
   "example": "Did you go to the party?",
-  "tr": "parti"
+  "tr": "parti, eğlence, siyasi parti, taraf"
  },
  {
   "id": 1849,
@@ -13358,11 +13376,11 @@
  {
   "id": 1859,
   "word": "patient",
-  "type": "noun",
+  "type": "adjective, noun",
   "level": "A2",
   "phonetic": "/ˈpeɪʃnt/",
   "example": "Hospitals are treating more patients than ever before.",
-  "tr": "hasta"
+  "tr": "adj. sabırlı; n. hasta"
  },
  {
   "id": 1860,
@@ -13470,7 +13488,7 @@
   "level": "A2",
   "phonetic": "/pər ˈsent/",
   "example": "The company announced a 21 per cent increase in profits.",
-  "tr": "adj. yüzde"
+  "tr": "adj. yüzde; adv. yüzde olarak; n. yüzde"
  },
  {
   "id": 1875,
@@ -13749,7 +13767,7 @@
   "level": "A1",
   "phonetic": "/pɪŋk/",
   "example": "She went bright pink with embarrassment.",
-  "tr": "adj. pembe"
+  "tr": "adj. pembe; n. pembe renk"
  },
  {
   "id": 1910,
@@ -13812,7 +13830,7 @@
   "level": "A1",
   "phonetic": "/plænt/",
   "example": "All plants need light and water.",
-  "tr": "n. bitki; v. dikmek, ekmek"
+  "tr": "n. bitki, tesis/fabrika; v. dikmek, ekmek"
  },
  {
   "id": 1920,
@@ -13821,7 +13839,7 @@
   "level": "A2",
   "phonetic": "/ˈplæstɪk/",
   "example": "a plastic bag/bottle/cup",
-  "tr": "adj. plastik"
+  "tr": "adj. plastik; n. plastik"
  },
  {
   "id": 1922,
@@ -13848,7 +13866,7 @@
   "level": "A1",
   "phonetic": "/pleɪ/",
   "example": "She wrote a play for the students to perform.",
-  "tr": "n. oyun, tiyatro oyunu; v. oynamak"
+  "tr": "n. oyun, tiyatro oyunu; v. oynamak, çalmak (enstrüman)"
  },
  {
   "id": 1926,
@@ -14181,7 +14199,7 @@
   "level": "A1",
   "phonetic": "/pəʊst/",
   "example": "I sent it by first-class post.",
-  "tr": "n. posta; v. postalamak, göndermek"
+  "tr": "n. posta, gönderi, görev; v. postalamak, paylaşmak"
  },
  {
   "id": 1968,
@@ -14253,7 +14271,7 @@
   "level": "A2",
   "phonetic": "/ˈpaʊər/",
   "example": "Religion is losing its power to shape our behaviour.",
-  "tr": "güç, etki"
+  "tr": "güç, kuvvet, iktidar, enerji/elektrik"
  },
  {
   "id": 1976,
@@ -14359,9 +14377,9 @@
   "word": "present",
   "type": "adjective, noun, verb",
   "level": "A1",
-  "phonetic": "/ˈpreznt/",
+  "phonetic": "/ˈpreznt/, /prɪˈzent/",
   "example": "I am not satisfied with the present situation.",
-  "tr": "adj. mevcut, şimdiki; n. hediye; v. sunmak, takdim etmek"
+  "tr": "adj. mevcut, şimdiki; n. hediye, şimdiki zaman; v. sunmak, takdim etmek"
  },
  {
   "id": 1990,
@@ -14604,7 +14622,7 @@
   "level": "A1",
   "phonetic": "/ˈprɑːdʌkt/",
   "example": "He has eliminated dairy products from his diet.",
-  "tr": "ürün, mamül"
+  "tr": "ürün, mamul, çarpım"
  },
  {
   "id": 2019,
@@ -15243,7 +15261,7 @@
   "level": "A1",
   "phonetic": "/ˈriːzn/",
   "example": "He said no but he didn't give a reason.",
-  "tr": "sebep, neden"
+  "tr": "sebep, neden, akıl/mantık"
  },
  {
   "id": 2102,
@@ -15331,9 +15349,9 @@
   "word": "record",
   "type": "noun, verb",
   "level": "A2",
-  "phonetic": "/ˈrekərd/",
+  "phonetic": "/ˈrekərd/, /rɪˈkɔːrd/",
   "example": "You should keep a record of your expenses.",
-  "tr": "n. kayıt, tutanak; v. kaydetmek, kayda geçirmek"
+  "tr": "n. kayıt, rekor, plak; v. kaydetmek, kayda geçirmek"
  },
  {
   "id": 2113,
@@ -15882,7 +15900,7 @@
   "level": "A1",
   "phonetic": "/raɪt/",
   "example": "Did you get the answer right?",
-  "tr": "adj. doğru, haklı; adv. sağa, sağda; n. sağ, sağ taraf"
+  "tr": "adj. doğru, haklı, sağ; adv. sağa, tam; n. hak, sağ taraf"
  },
  {
   "id": 2192,
@@ -15891,7 +15909,7 @@
   "level": "A2",
   "phonetic": "/rɪŋ/",
   "example": "He was wearing a ring on his middle finger.",
-  "tr": "n. yüzük; v. çevrelemek, kuşatmak"
+  "tr": "n. yüzük, zil sesi, halka; v. çalmak (zil/telefon), telefon etmek, çevrelemek"
  },
  {
   "id": 2194,
@@ -15945,7 +15963,7 @@
   "level": "A2",
   "phonetic": "/rɑːk/",
   "example": "They drilled through several layers of rock to reach the oil.",
-  "tr": "kaya, taş"
+  "tr": "kaya, taş, rock müziği"
  },
  {
   "id": 2202,
@@ -15953,7 +15971,7 @@
   "type": "noun",
   "level": "A2",
   "phonetic": "/rəʊl/",
-  "example": "She has landed the lead role (= the most important one) in a new play.",
+  "example": "She has landed the lead role in a new play.",
   "tr": "rol"
  },
  {
@@ -15963,7 +15981,7 @@
   "level": "B1",
   "phonetic": "/rəʊl/",
   "example": "Bake the rolls for 18–20 minutes.",
-  "tr": "n. küçük ekmek, rulo; v. yuvarlanmak, akmak"
+  "tr": "n. rulo, küçük ekmek, liste; v. yuvarlamak, yuvarlanmak"
  },
  {
   "id": 2205,
@@ -16044,7 +16062,7 @@
   "level": "B1",
   "phonetic": "/rəʊ/",
   "example": "The vegetables were planted in neat rows.",
-  "tr": "sıra, dizi"
+  "tr": "sıra, dizi, kürek çekme, kavga/gürültü"
  },
  {
   "id": 2216,
@@ -16098,7 +16116,7 @@
   "level": "A1",
   "phonetic": "/rʌn/",
   "example": "I go for a run every morning.",
-  "tr": "n. koşu; v. koşmak"
+  "tr": "n. koşu; v. koşmak, çalıştırmak/yönetmek, akmak"
  },
  {
   "id": 2224,
@@ -16278,7 +16296,7 @@
   "level": "A2",
   "phonetic": "/seɪv/",
   "example": "Doctors were unable to save her.",
-  "tr": "kurtarmak"
+  "tr": "kurtarmak, biriktirmek (para), tasarruf etmek, kaydetmek"
  },
  {
   "id": 2247,
@@ -16286,7 +16304,7 @@
   "type": "verb",
   "level": "A1",
   "phonetic": "/seɪ/",
-  "example": "+ speech ‘Hello!’ she said.",
+  "example": "‘Hello!’ she said with a smile.",
   "tr": "söylemek, demek"
  },
  {
@@ -16449,7 +16467,7 @@
   "level": "A1",
   "phonetic": "/ˈsekənd/",
   "example": "She came second in the marathon.",
-  "tr": "adv. ikinci sırada, ikinci olarak; det. ikinci; n. saniye"
+  "tr": "adv. ikinci sırada, ikinci olarak; det. ikinci; n. saniye; ordinal number ikinci"
  },
  {
   "id": 2271,
@@ -16557,7 +16575,7 @@
   "level": "A2",
   "phonetic": "/sens/",
   "example": "Readers gain a real sense of what life was like in the camp.",
-  "tr": "hissiyat, duygu, algı"
+  "tr": "duyu, his, anlam, mantık"
  },
  {
   "id": 2284,
@@ -16582,9 +16600,9 @@
   "word": "separate",
   "type": "adjective, verb",
   "level": "A2",
-  "phonetic": "/ˈseprət/",
+  "phonetic": "/ˈseprət/, /ˈsepəreɪt/",
   "example": "They have begun to sleep in separate rooms.",
-  "tr": "adj. ayrı; v. ayrılmak, ayırmak"
+  "tr": "adj. ayrı, bağımsız; v. ayırmak, ayrılmak"
  },
  {
   "id": 2288,
@@ -16682,7 +16700,7 @@
   "type": "number",
   "level": "A1",
   "phonetic": "/ˌsevnˈtiːn/",
-  "example": "",
+  "example": "She passed her driving test at seventeen.",
   "tr": "on yedi"
  },
  {
@@ -16691,7 +16709,7 @@
   "type": "number",
   "level": "A1",
   "phonetic": "/ˈsevnti/",
-  "example": "",
+  "example": "The speed limit on this road is seventy miles per hour.",
   "tr": "yetmiş"
  },
  {
@@ -16742,11 +16760,11 @@
  {
   "id": 2308,
   "word": "shape",
-  "type": "noun",
+  "type": "noun, verb",
   "level": "A2",
   "phonetic": "/ʃeɪp/",
   "example": "You can recognize the fish by the shape of their fins.",
-  "tr": "şekil, biçim"
+  "tr": "n. şekil, biçim, durum; v. şekillendirmek"
  },
  {
   "id": 2309,
@@ -16935,7 +16953,7 @@
   "level": "A1",
   "phonetic": "/ʃəʊ/",
   "example": "Millions of people watch the show.",
-  "tr": "n. gösteri, şov, program; v. göstermek"
+  "tr": "n. gösteri, şov, sergi; v. göstermek, kanıtlamak"
  },
  {
   "id": 2334,
@@ -16989,7 +17007,7 @@
   "level": "B1",
   "phonetic": "/saɪt/",
   "example": "She has very good sight.",
-  "tr": "görme, görme yetisi"
+  "tr": "görme yetisi, görüntü, manzara"
  },
  {
   "id": 2341,
@@ -16998,7 +17016,7 @@
   "level": "A2",
   "phonetic": "/saɪn/",
   "example": "Looking back, I should have seen the signs.",
-  "tr": "n. işaret, belirti; v. imzalamak"
+  "tr": "n. işaret, tabela, belirti, burç; v. imzalamak, işaret etmek"
  },
  {
   "id": 2343,
@@ -17088,7 +17106,7 @@
   "level": "A2",
   "phonetic": "/sɪns/",
   "example": "She went for a run on Monday and has not been seen since.",
-  "tr": "adv. o zamandan beri; conj. -den beri"
+  "tr": "adv. o zamandan beri; conj. -den beri, çünkü; prep. -den beri"
  },
  {
   "id": 2357,
@@ -17124,16 +17142,16 @@
   "level": "A2",
   "phonetic": "/ˈsɪŋɡl/",
   "example": "He sent her a single red rose.",
-  "tr": "adj. tek, bir tek; n. tek yön bilet"
+  "tr": "adj. tek, bekar; n. tek kişilik/yön, tekli"
  },
  {
   "id": 2362,
   "word": "sink",
-  "type": "verb",
+  "type": "noun, verb",
   "level": "B1",
   "phonetic": "/sɪŋk/",
   "example": "The ship sank to the bottom of the sea.",
-  "tr": "batmak"
+  "tr": "n. lavabo, eviye; v. batmak, çökmek"
  },
  {
   "id": 2363,
@@ -17195,7 +17213,7 @@
   "type": "number",
   "level": "A1",
   "phonetic": "/ˌsɪksˈtiːn/",
-  "example": "",
+  "example": "He left school at the age of sixteen.",
   "tr": "on altı"
  },
  {
@@ -17204,7 +17222,7 @@
   "type": "number",
   "level": "A1",
   "phonetic": "/ˈsɪksti/",
-  "example": "",
+  "example": "There are sixty seconds in a minute.",
   "tr": "altmış"
  },
  {
@@ -17223,7 +17241,7 @@
   "level": "A2",
   "phonetic": "/skiː/",
   "example": "She was on a ski trip in Colorado.",
-  "tr": "adj. kayak; v. kayak yapmak"
+  "tr": "adj. kayak; n. kayak; v. kayak yapmak"
  },
  {
   "id": 2375,
@@ -17331,7 +17349,7 @@
   "level": "B1",
   "phonetic": "/smɑːrt/",
   "example": "I have to be smart for work.",
-  "tr": "şık, özenli"
+  "tr": "zeki, akıllı, şık"
  },
  {
   "id": 2390,
@@ -17655,7 +17673,7 @@
   "level": "A1",
   "phonetic": "/saʊθ/",
   "example": "They live on the south coast.",
-  "tr": "adj. güney; adv. güneye, güney yönünde"
+  "tr": "adj. güney; adv. güneye, güney yönünde; n. güney"
  },
  {
   "id": 2439,
@@ -17672,8 +17690,8 @@
   "type": "noun",
   "level": "A1",
   "phonetic": "/speɪs/",
-  "example": "in space Valentina Tereshkova was the first woman in space.",
-  "tr": "uzay"
+  "example": "Valentina Tereshkova was the first woman in space.",
+  "tr": "uzay, boşluk, alan/yer"
  },
  {
   "id": 2441,
@@ -17835,7 +17853,7 @@
   "level": "B1",
   "phonetic": "/spɑːt/",
   "example": "Which has spots, the leopard or the tiger?",
-  "tr": "benek, leke, nokta"
+  "tr": "nokta, yer/mekan, leke, benek"
  },
  {
   "id": 2459,
@@ -17853,7 +17871,7 @@
   "level": "A1",
   "phonetic": "/sprɪŋ/",
   "example": "The following spring, the three artists travelled to California.",
-  "tr": "ilkbahar, bahar"
+  "tr": "ilkbahar, yay, su kaynağı"
  },
  {
   "id": 2461,
@@ -17862,7 +17880,7 @@
   "level": "A2",
   "phonetic": "/skwer/",
   "example": "a square room",
-  "tr": "adj. kare; n. kare, parça"
+  "tr": "adj. kare; n. kare, meydan"
  },
  {
   "id": 2463,
@@ -17889,7 +17907,7 @@
   "level": "A2",
   "phonetic": "/steɪdʒ/",
   "example": "At one stage it looked as though they would win.",
-  "tr": "aşama, evre"
+  "tr": "sahne, aşama, evre"
  },
  {
   "id": 2466,
@@ -17916,7 +17934,7 @@
   "level": "A1",
   "phonetic": "/stænd/",
   "example": "She was too weak to stand.",
-  "tr": "ayakta durmak, dikilmek"
+  "tr": "ayakta durmak, katlanmak/tahammül etmek"
  },
  {
   "id": 2469,
@@ -18024,7 +18042,7 @@
   "level": "B1",
   "phonetic": "/stɪk/",
   "example": "We collected dry sticks to start a fire.",
-  "tr": "n. sopa, çubuk, dal; v. yapıştırmak"
+  "tr": "n. sopa, çubuk, dal; v. yapıştırmak, saplamak, sıkışmak"
  },
  {
   "id": 2488,
@@ -18249,7 +18267,7 @@
   "level": "A1",
   "phonetic": "/ˈsʌbdʒekt/",
   "example": "Nelson Mandela is the subject of a new biography.",
-  "tr": "konu, tema"
+  "tr": "konu, ders, özne, denek"
  },
  {
   "id": 2519,
@@ -18627,7 +18645,7 @@
   "level": "A1",
   "phonetic": "/ˈteɪbl/",
   "example": "She took a seat at the end of the table.",
-  "tr": "masa"
+  "tr": "masa, tablo/çizelge"
  },
  {
   "id": 2569,
@@ -18878,7 +18896,7 @@
   "type": "number",
   "level": "A1",
   "phonetic": "/ten/",
-  "example": "There are only ten of these rare animals left.",
+  "example": "She counted from one to ten.",
   "tr": "on"
  },
  {
@@ -18915,7 +18933,7 @@
   "level": "A2",
   "phonetic": "/tɜːrm/",
   "example": "What is the meaning of the term ‘globalization’?",
-  "tr": "terim, kavram"
+  "tr": "terim, dönem/yarıyıl, koşul/şart"
  },
  {
   "id": 2605,
@@ -18951,7 +18969,7 @@
   "level": "A1",
   "phonetic": "/ðæn/",
   "example": "I'm older than her.",
-  "tr": "conj. -den, -dan"
+  "tr": "conj. -den, -dan; prep. -den, -dan (karşılaştırma)"
  },
  {
   "id": 2612,
@@ -18968,7 +18986,7 @@
   "type": "exclamation, noun",
   "level": "A1",
   "phonetic": "/θæŋks/",
-  "example": "‘How are you?’ ‘Fine, thanks (= thanks for asking).’",
+  "example": "‘How are you?’ ‘Fine, thanks.’",
   "tr": "excl. teşekkürler, sağ ol; n. teşekkür, şükür"
  },
  {
@@ -18987,7 +19005,7 @@
   "level": "A1",
   "phonetic": "/ðiː/",
   "example": "There were three questions. The first two were relatively easy but the third one was hard.",
-  "tr": "belirteç"
+  "tr": "belirli tanımlık (belli bir şeyden bahsederken kullanılır)"
  },
  {
   "id": 2620,
@@ -19166,7 +19184,7 @@
   "type": "number",
   "level": "A1",
   "phonetic": "/ˌθɜːrˈtiːn/",
-  "example": "",
+  "example": "A baker's dozen is thirteen.",
   "tr": "on üç"
  },
  {
@@ -19175,7 +19193,7 @@
   "type": "number",
   "level": "A1",
   "phonetic": "/ˈθɜːrti/",
-  "example": "",
+  "example": "November has thirty days.",
   "tr": "otuz"
  },
  {
@@ -19185,7 +19203,7 @@
   "level": "A1",
   "phonetic": "/ðɪs/",
   "example": "I didn't think we'd get this far.",
-  "tr": "adv. bu kadar; det. bu"
+  "tr": "adv. bu kadar; det. bu; pron. bu"
  },
  {
   "id": 2645,
@@ -19211,7 +19229,7 @@
   "type": "number",
   "level": "A1",
   "phonetic": "/ˈθaʊznd/",
-  "example": "",
+  "example": "Over a thousand people attended the concert.",
   "tr": "bin"
  },
  {
@@ -19293,7 +19311,7 @@
   "level": "A2",
   "phonetic": "/taɪ/",
   "example": "He was dressed impeccably in a suit and tie.",
-  "tr": "n. kravat; v. bağlamak"
+  "tr": "n. kravat, beraberlik, bağ; v. bağlamak, berabere kalmak"
  },
  {
   "id": 2662,
@@ -19311,7 +19329,7 @@
   "level": "B1",
   "phonetic": "/tɪl/",
   "example": "We're open till 6 o'clock.",
-  "tr": "conj. -e kadar"
+  "tr": "conj. -e kadar; prep. -e kadar"
  },
  {
   "id": 2665,
@@ -19320,7 +19338,7 @@
   "level": "A1",
   "phonetic": "/taɪm/",
   "example": "The world exists in time and space.",
-  "tr": "zaman, vakit"
+  "tr": "zaman, vakit, saat, kez/defa"
  },
  {
   "id": 2666,
@@ -19347,7 +19365,7 @@
   "level": "A2",
   "phonetic": "/tɪp/",
   "example": "The blog offered various beauty tips.",
-  "tr": "n. ipucu, tavsiye; v. bahşiş vermek"
+  "tr": "n. ipucu, bahşiş, uç; v. bahşiş vermek, devirmek"
  },
  {
   "id": 2670,
@@ -19364,8 +19382,8 @@
   "type": "noun",
   "level": "A1",
   "phonetic": "/ˈtaɪtl/",
-  "example": "What's title of her new book?",
-  "tr": "başlık, ad"
+  "example": "What's the title of her new book?",
+  "tr": "başlık, unvan, eser adı"
  },
  {
   "id": 2672,
@@ -19383,7 +19401,7 @@
   "level": "A1",
   "phonetic": "/təˈdeɪ/",
   "example": "I've got a piano lesson later today.",
-  "tr": "adv. bugün"
+  "tr": "adv. bugün; n. bugün, günümüz"
  },
  {
   "id": 2676,
@@ -19428,7 +19446,7 @@
   "level": "A1",
   "phonetic": "/təˈmɑːrəʊ/",
   "example": "I'm off now. See you tomorrow.",
-  "tr": "adv. yarın"
+  "tr": "adv. yarın; n. yarın"
  },
  {
   "id": 2682,
@@ -19446,7 +19464,7 @@
   "level": "A1",
   "phonetic": "/təˈnaɪt/",
   "example": "Will you have dinner with me tonight?",
-  "tr": "adv. bu gece, bu akşam"
+  "tr": "adv. bu gece, bu akşam; n. bu gece"
  },
  {
   "id": 2685,
@@ -19590,7 +19608,7 @@
   "level": "A2",
   "phonetic": "/tɔɪ/",
   "example": "a toy car",
-  "tr": "adj. oyuncak"
+  "tr": "adj. oyuncak; n. oyuncak"
  },
  {
   "id": 2706,
@@ -19599,7 +19617,7 @@
   "level": "A2",
   "phonetic": "/træk/",
   "example": "We crossed the rail/train track.",
-  "tr": "ray, hat, yol"
+  "tr": "iz, patika, ray, pist, parça (müzik)"
  },
  {
   "id": 2707,
@@ -19716,7 +19734,7 @@
   "level": "B1",
   "phonetic": "/triːt/",
   "example": "Treat your keyboard with care and it should last for years.",
-  "tr": "davranmak, muamele etmek"
+  "tr": "davranmak, tedavi etmek, ısmarlamak"
  },
  {
   "id": 2724,
@@ -19815,7 +19833,7 @@
   "level": "A1",
   "phonetic": "/traɪ/",
   "example": "I don't know if I can come but I'll try.",
-  "tr": "denecek, çabalamak"
+  "tr": "denemek, çabalamak, gayret etmek"
  },
  {
   "id": 2736,
@@ -19842,7 +19860,7 @@
   "level": "A1",
   "phonetic": "/tɜːrn/",
   "example": "When it's your turn, take another card.",
-  "tr": "n. sıra; v. dönmek"
+  "tr": "n. sıra, dönüş; v. dönmek, çevirmek, olmak (yaş/renk)"
  },
  {
   "id": 2740,
@@ -19859,7 +19877,7 @@
   "type": "number",
   "level": "A1",
   "phonetic": "/twelv/",
-  "example": "There are only twelve of these rare animals left.",
+  "example": "There are twelve months in a year.",
   "tr": "on iki"
  },
  {
@@ -19868,7 +19886,7 @@
   "type": "number",
   "level": "A1",
   "phonetic": "/ˈtwenti/",
-  "example": "",
+  "example": "I'll be ready in twenty minutes.",
   "tr": "yirmi"
  },
  {
@@ -19887,7 +19905,7 @@
   "level": "A2",
   "phonetic": "/twɪn/",
   "example": "a twin brother/sister",
-  "tr": "adj. ikiz"
+  "tr": "adj. ikiz; n. ikiz, ikizlerden biri"
  },
  {
   "id": 2746,
@@ -20166,7 +20184,7 @@
   "level": "A1",
   "phonetic": "/ənˈtɪl/",
   "example": "Let's wait until the rain stops.",
-  "tr": "conj. -e kadar"
+  "tr": "conj. -e kadar; prep. -e kadar"
  },
  {
   "id": 2781,
@@ -20236,9 +20254,9 @@
   "word": "use",
   "type": "noun, verb",
   "level": "A1",
-  "phonetic": "/juːs/",
+  "phonetic": "/juːs/, /juːz/",
   "example": "A ban was imposed on the use of chemical weapons.",
-  "tr": "n. kullanım; v. kullanmak"
+  "tr": "n. kullanım, fayda; v. kullanmak"
  },
  {
   "id": 2794,
@@ -20652,7 +20670,7 @@
   "level": "A1",
   "phonetic": "/weɪ/",
   "example": "I prefer to do things the easy way.",
-  "tr": "yol, yöntem"
+  "tr": "yol, yöntem, tarz, yön"
  },
  {
   "id": 2853,
@@ -20787,7 +20805,7 @@
   "level": "A1",
   "phonetic": "/wel/",
   "example": "I don't feel very well.",
-  "tr": "adj. iyi, sağlıklı; adv. iyi; excl. vay, pekala"
+  "tr": "adj. iyi, sağlıklı; adv. iyi bir şekilde; n. kuyu; excl. şey, pekala"
  },
  {
   "id": 2873,
@@ -20832,7 +20850,7 @@
   "level": "B1",
   "phonetic": "/wətˈevər/",
   "example": "Take whatever action is needed.",
-  "tr": "det. her ne, ne olursa"
+  "tr": "det. her ne, ne olursa; pron. her ne, ne olursa olsun"
  },
  {
   "id": 2882,
@@ -20850,7 +20868,7 @@
   "level": "A1",
   "phonetic": "/wen/",
   "example": "When did you last see him?",
-  "tr": "adv. ne zaman; conj. -diğinde, zaman"
+  "tr": "adv. ne zaman; conj. -diğinde, zaman; pron. ne zaman"
  },
  {
   "id": 2886,
@@ -20904,7 +20922,7 @@
   "level": "A1",
   "phonetic": "/waɪt/",
   "example": "The suspect was seen driving a white van.",
-  "tr": "adj. beyaz"
+  "tr": "adj. beyaz; n. beyaz renk, ak"
  },
  {
   "id": 2896,
@@ -20931,7 +20949,7 @@
   "level": "A2",
   "phonetic": "/huːz/",
   "example": "Whose house is that?",
-  "tr": "det. kimin"
+  "tr": "det. kimin; pron. kimin, kiminki"
  },
  {
   "id": 2901,
@@ -20976,7 +20994,7 @@
   "level": "A1",
   "phonetic": "/wɪl/",
   "example": "Her decision to continue shows great strength of will.",
-  "tr": "n. irade, istek; modal v. -ecek, -acak"
+  "tr": "n. irade, istek, vasiyet; modal v. -ecek, -acak"
  },
  {
   "id": 2907,
@@ -20992,9 +21010,9 @@
   "word": "wind",
   "type": "noun",
   "level": "A2",
-  "phonetic": "/wɪnd/",
+  "phonetic": "/wɪnd/, /waɪnd/",
   "example": "The wind is blowing from the south.",
-  "tr": "rüzgar"
+  "tr": "rüzgar, yel, soluk"
  },
  {
   "id": 2910,
@@ -21210,7 +21228,7 @@
   "level": "A2",
   "phonetic": "/wɜːrs/",
   "example": "The rooms were awful and the food was worse.",
-  "tr": "adj. daha kötü"
+  "tr": "adj. daha kötü; adv. daha kötü bir şekilde"
  },
  {
   "id": 2940,
@@ -21219,7 +21237,7 @@
   "level": "A2",
   "phonetic": "/wɜːrst/",
   "example": "It was by far the worst speech he had ever made.",
-  "tr": "adj. en kötü"
+  "tr": "adj. en kötü; adv. en kötü şekilde"
  },
  {
   "id": 2942,
@@ -21235,9 +21253,9 @@
   "word": "would",
   "type": "modal verb",
   "level": "A1",
-  "phonetic": "/əd/",
+  "phonetic": "/wʊd/",
   "example": "Would you like a sandwich?",
-  "tr": "-erdi, -ecekti"
+  "tr": "-erdi, -acaktı (geçmişte gelecek/koşul/kibar rica)"
  },
  {
   "id": 2944,
@@ -21308,7 +21326,7 @@
   "type": "exclamation",
   "level": "A1",
   "phonetic": "/jeə/",
-  "example": "",
+  "example": "Yeah, I completely agree with you.",
   "tr": "evet, ha"
  },
  {
@@ -21327,7 +21345,7 @@
   "level": "A1",
   "phonetic": "/ˈjeləʊ/",
   "example": "Her teeth were rather yellow.",
-  "tr": "adj. sarı"
+  "tr": "adj. sarı; n. sarı renk"
  },
  {
   "id": 2956,
@@ -21345,7 +21363,7 @@
   "level": "A1",
   "phonetic": "/ˈjestərdi/",
   "example": "A company spokeswoman said yesterday that no final decision had been made yet.",
-  "tr": "adv. dün"
+  "tr": "adv. dün; n. dün, geçmiş"
  },
  {
   "id": 2959,
