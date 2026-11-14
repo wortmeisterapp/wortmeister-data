@@ -3321,17 +3321,17 @@
   "exampleTr": "Üniversite kampüsünde çok modern bir kütüphane var.",
   "topic": "Okul ve Eğitim"
  },
- {
+{
   "id": 303,
   "word": "can",
   "type": "noun, modal verb",
   "level": "A1",
   "phonetic": "/kæn/",
-  "example": "He bought a can of cold soup.",
+  "example": "She can speak three languages very well.",
   "tr": "teneke kutu, kutu; -ebilmek, -abilmek",
-  "exampleTr": "O, bir kutu soğuk çorba satın aldı.",
-  "topic": "Ev ve Eşyalar"
- },
+  "exampleTr": "O, üç dili çok iyi konuşabilir.",
+  "topic": "Genel"
+},
  {
   "id": 304,
   "word": "candidate",
@@ -13898,11 +13898,11 @@
   "type": "noun, modal verb",
   "level": "A1",
   "phonetic": "/meɪ/",
-  "example": "The school year ends in May.",
+  "example": "It may rain this afternoon, so take an umbrella.",
   "tr": "Mayıs; -ebilir, ihtimali olmak",
-  "exampleTr": "Okul yılı Mayıs ayında biter.",
-  "topic": "Zaman ve Sayılar"
- },
+  "exampleTr": "Bu öğleden sonra yağmur yağabilir, o yüzden şemsiye al.",
+  "topic": "Genel"
+},
  {
   "id": 1265,
   "word": "maybe",
@@ -14899,11 +14899,11 @@
   "type": "noun, verb, modal verb",
   "level": "A1",
   "phonetic": "/niːd/",
-  "example": "There is no need for worry today.",
+  "example": "I need more time to finish this work.",
   "tr": "ihtiyaç, gereksinim; ihtiyacı olmak, gerekmek; gerek duymak, -mesi yetmek",
-  "exampleTr": "Bugün endişe için hiçbir ihtiyaç yok.",
+  "exampleTr": "Bu işi bitirmek için daha fazla zamana ihtiyacım var.",
   "topic": "Genel"
- },
+},
  {
   "id": 1356,
   "word": "needle",
@@ -25640,17 +25640,17 @@
   "exampleTr": "Bu büyük ormanda birçok vahşi hayvan yaşar.",
   "topic": "Doğa ve Hava"
  },
- {
+{
   "id": 2332,
   "word": "will",
   "type": "noun, modal verb",
   "level": "A1",
   "phonetic": "/wɪl/",
-  "example": "He has a strong will to learn English.",
+  "example": "I will call you again tomorrow morning.",
   "tr": "irade, istek; -ecek, -acak",
-  "exampleTr": "İngilizce öğrenmek için güçlü bir iradesi var.",
+  "exampleTr": "Seni yarın sabah tekrar arayacağım.",
   "topic": "Genel"
- },
+},
  {
   "id": 2333,
   "word": "win",
